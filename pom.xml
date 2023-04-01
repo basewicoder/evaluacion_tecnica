@@ -107,11 +107,6 @@
 					<source>1.8</source>
 					<target>1.8</target>
 					<encoding>UTF-8</encoding>
-					<execution>
-						<goals>
-							<goal>repackage</goal>
-						</goals>
-					</execution>
 					<annotationProcessorPaths>
 						<path>
 							<groupId>org.projectlombok</groupId>
