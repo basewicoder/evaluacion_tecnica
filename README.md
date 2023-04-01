@@ -13,10 +13,15 @@ Cree las API REST necesarias para una aplicación de manejo del flujo de efectiv
 ### \* \*Backend
 
 *Java*: Lenguaje de programación utilizado para desarrollar aplicaciones.
+
 *Spring Boot*: Framework de desarrollo de aplicaciones web y microservicios.
+
 *Hibernate*: Framework de mapeo objeto-relacional para bases de datos.
+
 *H2*: Sistema de gestión de bases de datos relacionales de código abierto, rápido y ligero.
+
 *JPA*: API de Java para la gestión de datos en bases de datos relacionales.
+
 *JWT*: JSON Web Tokens, es un estándar para la creación de tokens de autenticación que pueden ser utilizados para la comunicación entre servicios.
 
 ### \* \*FrontEnd
@@ -26,8 +31,11 @@ para acceder al portal web debe ir al siguiente link:
 \*http://localhost:8443/passport/login
 Datos de acceso
 
+
 usuario: *admin*
+
 contraseña: *123456*
+
 \[\[Pasted image 20230401183328.png\]\]
 Opciones :
 1. La documentacion de los Api con swagger
