@@ -1,0 +1,10 @@
+
+g
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ÒÖêœ
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ç…‚ûÿÿÿÿ
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ôİÕıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ğ–ĞÉşÿÿÿÿ
+`
+java:S1128"ERemove this unused import 'com.examen.infraestructure.entity.Cuenta'.(—øÏ±ûÿÿÿÿ
