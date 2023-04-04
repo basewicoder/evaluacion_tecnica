@@ -1,0 +1,38 @@
+{
+  "app": {
+    "name": "Evaluacion Tecnica",
+    "description": "Springboot + Angular"
+  },
+  "user": {
+    "name": "Admin",
+    "avatar": "./assets/tmp/img/avatar.jpg",
+    "email": "wilmer"
+  },
+  "menu": [
+    {
+      "text": "Menu Principal",
+      "group": true,
+      "hideInBreadcrumb": true,
+      "children": [
+        {
+          "text": "panel",
+          "icon": "anticon-setting",
+          "children": [
+            {
+              "text": "Api Doc",
+              "link": "/apidoc"
+            },
+            {
+              "text": "Transaccion",
+              "link": "/transaccion"
+            },
+            {
+              "text": "Cuenta",
+              "link": "/cuenta"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

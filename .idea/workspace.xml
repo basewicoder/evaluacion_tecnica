@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d5a75c2-c690-43e4-b77c-b80745a59b14" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examen-0.0.1-SNAPSHOT.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/examen/application/controller/TransaccionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/examen/application/controller/TransaccionController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/examen/domain/data" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/examen/domain/data" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/examen/domain/services/impl/CuentaServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/examen/domain/services/impl/CuentaServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
